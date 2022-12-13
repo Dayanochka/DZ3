@@ -58,3 +58,6 @@
  console.log(k.length); 
  } 
  countChar(k)
+
+
+
